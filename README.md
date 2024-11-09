@@ -7,7 +7,7 @@
  git status
  git add 
  git commit -m
- git git log
+ git log
  git checkout
  ```
 
