@@ -1,5 +1,5 @@
 # 📄Descrição
- Prática de versionamento de código utilizando comandos do Git aprendidos em sala de aula.
+ Prática de versionamento de código utilizando comandos do Git aprendidos em sala de aula e praticando linguagem Markdown.
   ```
  git push
  git pull
