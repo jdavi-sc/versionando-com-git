@@ -24,3 +24,6 @@
 Documentação [Git](https://git-scm.com/doc)
 
 Documentação [Git hub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
+
+# 🔍 Referências 
+Projeto feito em colaboração com a escola [Etec Uirapuru](https://www.etecuirapuru.com.br/).
